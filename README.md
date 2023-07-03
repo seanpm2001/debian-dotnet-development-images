@@ -1,3 +1,7 @@
+# DEPRECATED
+This repository has been incorporated into
+[toradex/torizon-containers](https://github.com/toradex/torizon-containers).
+
 # Base images for .NET development
 
 Base images are provided in 32 and 64 bits flavours.
